@@ -21,6 +21,12 @@ Building **Enterprise-Grade Privacy-First Solutions** from Austria 🇦🇹
 
 ---
 
+## 🎯 GitHub Contribution Snake
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/LEEI1337/LEEI1337/output/github-snake.svg)
+
+---
+
 ## 🎯 Top Projects
 
 ### 🛡️ Enterprise Security & Compliance
@@ -137,27 +143,6 @@ Building **Enterprise-Grade Privacy-First Solutions** from Austria 🇦🇹
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEEI1337&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEI1337&layout=compact&theme=transparent&hide_border=true&langs_count=8)
-
-### 🌟 Achievements
-**⭐ 243 Stars Collected** | **📝 552 Contributions (2025)** | **👥 4 Followers** | **✨ GitHub PRO**
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-![Snake animation](https://github.com/LEEI1337/LEEI1337/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎓 Learning & Research
 
 Focused on:
@@ -208,8 +193,3 @@ Focused on:
 
 **Last Updated:** Feb 12, 2026 | GitHub PRO ⭐ | AT-Based 🇦🇹
 
----
-
-## 🎯 GitHub Contribution Snake
-
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/LEEI1337/LEEI1337/output/github-snake.svg)
