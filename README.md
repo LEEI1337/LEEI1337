@@ -173,7 +173,7 @@ Focused on:
 - 🏔️ Based in Austria (Burgenland)
 - 🌲 Privacy & Open-Source Advocate
 - 📚 Building the "Phantom Ecosystem"
-- 🎯 Obsessed with clean code & efficiency
+- 🎯 Obsessed with upgrading code & efficiency
 - 🇪🇺 European Digital Sovereignty Supporter
 - 🔐 Zero-Knowledge Architecture Fan
 
