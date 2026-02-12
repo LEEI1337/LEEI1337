@@ -16,7 +16,7 @@ Building **Enterprise-Grade Privacy-First Solutions** from Austria 🇦🇹
 ![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-005DAA?style=flat-square)
 ![Privacy First](https://img.shields.io/badge/Privacy-First-0D47A1?style=flat-square)
 ![EU Sovereign](https://img.shields.io/badge/EU-Sovereign-003399?style=flat-square)
-![Austria](https://img.shields.io/badge/Austria-Burgenland-ED1C24?style=flat-square)
+![Austria](https://img.shields.io/badge/Austria-🇦🇹-ED1C24?style=flat-square)
 ![GitHub PRO](https://img.shields.io/badge/GitHub-PRO-181717?style=flat-square&logo=github)
 
 ---
@@ -53,11 +53,6 @@ Building **Enterprise-Grade Privacy-First Solutions** from Austria 🇦🇹
 - **[phantom-link](https://github.com/LEEI1337/phantom-link)**
   
   Real-time encrypted chat: Go backend, Kotlin Android, WebSocket (Privacy-first, EU-ready)
-
-### 🎬 Computer Vision
-- **[ShotDetect-Pro](https://github.com/LEEI1337/ShotDetect-Pro)**
-  
-  AI-powered video shot detection & scene analysis (Python + C++, Privacy-first)
 
 ### 🛠️ Developer Tools
 - **[git-phantom-scope](https://github.com/LEEI1337/git-phantom-scope)** ⭐⭐
@@ -198,7 +193,6 @@ Focused on:
 
 ## ⚡ Fun Facts
 
-- 🏔️ Based in **Eisenstadt, Burgenland, Austria**
 - 🔧 CNC & IoT Enthusiast
 - 🌲 Privacy & Open-Source Advocate
 - 📚 Building the "Phantom Ecosystem"
@@ -220,4 +214,4 @@ Focused on:
 
 ### ⭐ If you find my projects interesting, check them out and drop a star!
 
-**Last Updated:** Feb 12, 2026 | GitHub PRO ⭐ | Based in Austria 🇦🇹
+**Last Updated:** Feb 12, 2026 | GitHub PRO ⭐ | EU-Based 🇪🇺
