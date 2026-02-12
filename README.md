@@ -4,7 +4,7 @@
 Building **Enterprise-Grade Privacy-First Solutions** from Austria 🇦🇹
 
 🎯 **Focus Areas:**
-- 🛡️ Sovereign AI Security & GDPR Compliance
+- 🛡️ Sovereign AI Security & GDPR Compliance 
 - 🇪🇺 EU-Centric Tech Solutions (Austria 100% Privacy-first)
 - 🤖 Multi-AI Orchestration & LLM Cost Optimization (<5€/month)
 - 🏭 Full-Stack Architecture: Python + TypeScript + Go
