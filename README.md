@@ -207,3 +207,9 @@ Focused on:
 ### ⭐ If you find my projects interesting, check them out and drop a star!
 
 **Last Updated:** Feb 12, 2026 | GitHub PRO ⭐ | AT-Based 🇦🇹
+
+---
+
+## 🎯 GitHub Contribution Snake
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/LEEI1337/LEEI1337/output/github-snake.svg)
