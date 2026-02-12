@@ -185,6 +185,7 @@ Focused on:
 ## ⚡ Fun Facts
 
 - 🔧 CNC & IoT Enthusiast
+- 🇦🇹 Based in Austria (Burgenland)
 - 🌲 Privacy & Open-Source Advocate
 - 📚 Building the "Phantom Ecosystem"
 - 🎯 Obsessed with clean code & efficiency
@@ -205,4 +206,4 @@ Focused on:
 
 ### ⭐ If you find my projects interesting, check them out and drop a star!
 
-**Last Updated:** Feb 12, 2026 | GitHub PRO ⭐ | EU-Based 🇪🇺
+**Last Updated:** Feb 12, 2026 | GitHub PRO ⭐ | AT-Based 🇦🇹
