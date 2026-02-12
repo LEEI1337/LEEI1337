@@ -1,83 +1,223 @@
-# 👋 Hi, I'm LEE11337!
+# 👋 Hi, I'm LEEI1337!
 
-## 🚀 About Me
-- 👨‍💻 Full-stack developer & entrepreneur from Austria (Burgenland)
-- 🏢 Building **Ruf Outdoor & Expedition Equipment** e-commerce platform
-- 🤖 Passionate about AI, machine learning, and automation
-- 🔧 DevOps & Cloud infrastructure enthusiast
-- 📦 Open-source contributor
+## 🔥 About Me
+Building **Enterprise-Grade Privacy-First Solutions** from Austria 🇦🇹
 
-## 💡 What I'm Working On
-- 🌐 E-commerce platforms and SaaS products
-- 🤖 AI-powered web scanning and analytics tools
-- ⚙️ Workflow automation with n8n and custom integrations
-- 🏗️ Enterprise-grade architecture patterns
+🎯 **Focus Areas:**
+- 🛡️ Sovereign AI Security & GDPR Compliance
+- 🇪🇺 EU-Centric Tech Solutions (Austria 100% Privacy-first)
+- 🤖 Multi-AI Orchestration & LLM Cost Optimization (<5€/month)
+- 🏭 Full-Stack Architecture: Python + TypeScript + Go
+- 🏪 E-Commerce Automation & Integration (Odoo, WooCommerce)
+- 🔐 Encrypted Real-time Communication Systems
+- 🎬 Computer Vision & Video Analytics
+- 📱 IoT & Embedded Systems (ESP32, Arduino)
 
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)
-
-### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![n8n](https://img.shields.io/badge/-n8n-FF6B6B?logo=n8n&style=flat)
-![Claude AI](https://img.shields.io/badge/-Claude-000000?logo=anthropic&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-
-### Platforms
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-
-## 📊 GitHub Stats
-
-![LEE11337's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEE11337&show_icons=true&theme=dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE11337&layout=compact&theme=dark)
-
-## 🐍 Contribution Activity
-
-![Snake animation](https://github.com/LEE11337/LEE11337/blob/output/github-contribution-grid-snake.svg)
-
-## 🌟 Featured Projects
-
-Check out my repositories for more details on:
-- **phantom-shield** - 6-Layer Defensive Architecture for AI security
-- **phantom-neural-cortex** - Professional multi-AI development environment
-- **taxologic-local** - AI-powered local tax filing assistant for Austria
-- **phantom-link** - Real-time encrypted chat with privacy-first design
-
-## 🎯 Skills & Expertise
-
-- **Web Development**: Full-stack development, e-commerce (WooCommerce, Shopify, Odoo)
-- **Cloud & DevOps**: Docker, Infrastructure-as-code, Cloud architecture
-- **AI & Automation**: LLM integration, multi-agent orchestration, workflow automation
-- **Hardware**: CNC machining, embedded systems, technical fabrication
-- **Business**: Entrepreneurship, SaaS product development, GDPR/DSGVO compliance
-
-## 📈 2025 Goals
-
-- 🚀 Scale Ruf Outdoor business internationally
-- 🤖 Build advanced AI agent orchestration systems
-- 📚 Contribute more to open-source projects
-- 🏆 Master enterprise software architecture
-- 🌍 Connect with more developers and makers
-
-## 📞 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
-- 📧 Email: your.email@example.com
-- 🌐 Website: Your portfolio link
+![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-005DAA?style=flat-square)
+![Privacy First](https://img.shields.io/badge/Privacy-First-0D47A1?style=flat-square)
+![EU Sovereign](https://img.shields.io/badge/EU-Sovereign-003399?style=flat-square)
+![Austria](https://img.shields.io/badge/Austria-Burgenland-ED1C24?style=flat-square)
+![GitHub PRO](https://img.shields.io/badge/GitHub-PRO-181717?style=flat-square&logo=github)
 
 ---
 
-### ⭐ If you find my projects interesting, don't forget to star them!
+## 🎯 Top Projects
 
-*Last updated: February 2026*
+### 🛡️ Enterprise Security & Compliance
+- **[phantom-shield](https://github.com/LEEI1337/phantom-shield)** ⭐⭐
+  
+  6-Layer Defensive Architecture GDPR-compliant AI security for EU Guardian Shield
+  
+- **[taxlogic-local](https://github.com/LEEI1337/taxlogic-local)** ⭐
+  
+  AI-powered tax filing assistant for Austria - 100% privacy-first, no cloud
+
+- **[ZugangsWeg.at](https://github.com/LEEI1337/ZugangsWeg.at)**
+  
+  Barrier-free administration platform, DSGVO-compliant
+
+### 🤖 AI & Automation Stack
+- **[phantom-neural-cortex](https://github.com/LEEI1337/phantom-neural-cortex)** ⭐⭐⭐⭐⭐
+  
+  Professional multi-AI development environment with intelligent cost optimization (<5€/month)
+  
+- **[phantom-ai](https://github.com/LEEI1337/phantom-ai)** ⭐
+  
+  Local AI Productivity Stack: Voice Assistant, Podcast Generator, Knowledge Graph, Content Creation (100% GDPR-compliant)
+  
+- **[phantom-creator](https://github.com/LEEI1337/phantom-creator)** ⭐
+  
+  AI-powered book generator with GraphRAG, knowledge graphs & local LLMs
+
+### 💬 Real-Time Communication
+- **[phantom-link](https://github.com/LEEI1337/phantom-link)**
+  
+  Real-time encrypted chat: Go backend, Kotlin Android, WebSocket (Privacy-first, EU-ready)
+
+### 🎬 Computer Vision
+- **[ShotDetect-Pro](https://github.com/LEEI1337/ShotDetect-Pro)**
+  
+  AI-powered video shot detection & scene analysis (Python + C++, Privacy-first)
+
+### 🛠️ Developer Tools
+- **[git-phantom-scope](https://github.com/LEEI1337/git-phantom-scope)** ⭐⭐
+  
+  Privacy-First GitHub Profile Intelligence & AI-Powered Visual Identity Platform
+
+- **[phantom-domains](https://github.com/LEEI1337/phantom-domains)** ⭐
+  
+  Expired domain discovery & analysis system (16 Docker services, 100% local, privacy-first)
+
+### 🏪 E-Commerce
+- **[Ruf-Shop](https://github.com/LEEI1337/Ruf-Shop)**
+  
+  E-Commerce automation & management tooling
+  
+- **[Ruf-Odoo-WooComm](https://github.com/LEEI1337/Ruf-Odoo-WooComm)**
+  
+  Odoo-WooCommerce integration bridge
+
+### 🔌 IoT & Embedded Systems
+- **[phantom-key](https://github.com/LEEI1337/phantom-key)** ⭐
+  
+  ESP32-C3 BLE Macro Keyboard with Ducky Script, NeoPixel effects
+  
+- **[luftklappe](https://github.com/LEEI1337/luftklappe)**
+  
+  ESP32-C6 servo-controlled air damper with ESPHome & Home Assistant
+
+### 🌐 Landing Pages & Web
+- **[ZugangsWeg.at-Page](https://github.com/LEEI1337/ZugangsWeg.at-Page)** ⭐
+  
+  Landing Page GitHub Pages
+  
+- **[ZugangsWeg-at](https://github.com/LEEI1337/ZugangsWeg-at)** ⭐
+  
+  Reserved Namespace
+
+---
+
+## 💡 Current Focus (2026)
+🔬 Building **Phantom Ecosystem**: Privacy-first, EU-focused, enterprise-grade solutions
+
+🚀 Scaling **phantom-neural-cortex** for multi-AI orchestration
+
+🌍 Expanding GDPR-compliant SaaS products
+
+📚 Creating knowledge-graph powered AI systems
+
+🇪🇺 Pushing EU-sovereign technology standards
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Frameworks & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### AI & ML
+![LLM](https://img.shields.io/badge/-LLM%20Agents-FF6B6B?style=flat-square)
+![GraphRAG](https://img.shields.io/badge/-GraphRAG-0078D4?style=flat-square)
+![Knowledge Graphs](https://img.shields.io/badge/-Knowledge%20Graphs-13C2C2?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF7043?style=flat-square)
+![n8n](https://img.shields.io/badge/-n8n-FF6B6B?style=flat-square&logo=n8n)
+
+### Security & Compliance
+![GDPR](https://img.shields.io/badge/-GDPR-005DAA?style=flat-square)
+![Privacy-First](https://img.shields.io/badge/-Privacy--First-0D47A1?style=flat-square)
+![Encryption](https://img.shields.io/badge/-Encryption-1B1B1B?style=flat-square)
+![EU Sovereign](https://img.shields.io/badge/-EU%20Sovereign-003399?style=flat-square)
+![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-800000?style=flat-square)
+
+### IoT & Hardware
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEEI1337&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEI1337&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+
+### 🌟 Achievements
+**⭐ 243 Stars Collected** | **📝 552 Contributions (2025)** | **👥 4 Followers** | **✨ GitHub PRO**
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+![Snake animation](https://github.com/LEEI1337/LEEI1337/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎓 Learning & Research
+
+Focused on:
+- Multi-Agent LLM Systems & Orchestration
+- Sovereign AI & European Data Protection
+- Enterprise Architecture Patterns
+- Real-time Distributed Systems
+- Privacy-Preserving Machine Learning
+- Cost-Optimized AI Infrastructure
+- GDPR-Compliant Application Design
+
+---
+
+## 💬 Latest Activity
+
+- 🚀 Working on multi-agent AI orchestration systems
+- 🔒 Expanding GDPR-compliant solutions
+- 🤖 Optimizing LLM cost architectures
+- 🌍 Building EU-first SaaS products
+- 🏗️ Developing privacy-first infrastructure
+- 📊 Collecting insights for knowledge graph systems
+
+---
+
+## ⚡ Fun Facts
+
+- 🏔️ Based in **Eisenstadt, Burgenland, Austria**
+- 🔧 CNC & IoT Enthusiast
+- 🌲 Privacy & Open-Source Advocate
+- 📚 Building the "Phantom Ecosystem"
+- 🎯 Obsessed with clean code & efficiency
+- 🇪🇺 European Digital Sovereignty Supporter
+- 🔐 Zero-Knowledge Architecture Fan
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 **Portfolio**: [Coming Soon]
+- 💼 **LinkedIn**: [Add Your LinkedIn]
+- 🐦 **Twitter/X**: [Add Your Handle]
+- 📧 **Email**: [Add Your Email]
+- 🌍 **Website**: [Add Your Website]
+
+---
+
+### ⭐ If you find my projects interesting, check them out and drop a star!
+
+**Last Updated:** Feb 12, 2026 | GitHub PRO ⭐ | Based in Austria 🇦🇹
