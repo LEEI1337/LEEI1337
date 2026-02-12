@@ -185,7 +185,7 @@ Focused on:
 ## ⚡ Fun Facts
 
 - 🔧 CNC & IoT Enthusiast
-- 🇦🇹 Based in Austria (Burgenland)
+- 🏔️ Based in Austria (Burgenland)
 - 🌲 Privacy & Open-Source Advocate
 - 📚 Building the "Phantom Ecosystem"
 - 🎯 Obsessed with clean code & efficiency
@@ -197,10 +197,10 @@ Focused on:
 ## 🌐 Connect With Me
 
 - 🔗 **Portfolio**: [Coming Soon]
-- 💼 **LinkedIn**: [Add Your LinkedIn]
-- 🐦 **Twitter/X**: [Add Your Handle]
-- 📧 **Email**: [Add Your Email]
-- 🌍 **Website**: [Add Your Website]
+- 💼 **LinkedIn**: [Coming Soon]
+- 🐦 **Twitter/X**: [Coming Soon]
+- 📧 **Email**: [Coming Soon]
+- 🌍 **Website**: [Coming Soon]
 
 ---
 
