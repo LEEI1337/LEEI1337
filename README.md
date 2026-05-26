@@ -181,15 +181,16 @@ Focused on:
 
 ## 🌐 Connect With Me
 
-- 🔗 **Portfolio**: [Coming Soon]
-- 💼 **LinkedIn**: [Coming Soon]
-- 🐦 **Twitter/X**: [Coming Soon]
-- 📧 **Email**: [Coming Soon]
-- 🌍 **Website**: [Coming Soon]
+- 🏢 **AI Engineering (Org)**: [github.com/AI-Engineering-at](https://github.com/AI-Engineering-at) — lokale AI-Systeme für DACH-KMUs
+- 📚 **Wiki**: [wiki.ai-engineering.at](https://wiki.ai-engineering.at) — 106+ kostenlose Artikel zu lokaler KI, DSGVO, EU AI Act
+- 🧩 **Hub**: [hub.ai-engineering.at](https://hub.ai-engineering.at) — 900+ kuratierte AI-Skills & MCP Servers
+- 🎬 **YouTube**: [@AI-Engineering-at](https://www.youtube.com/@AI-Engineering-at) — Tutorials & Playbooks für lokale AI-Stacks
+- 💼 **LinkedIn**: [joerg-fuchs-ai](https://www.linkedin.com/in/joerg-fuchs-ai)
+- 🌍 **Website**: [ai-engineering.at](https://www.ai-engineering.at) · [zugangsweg.at](https://zugangsweg.at/)
 
 ---
 
 ### ⭐ If you find my projects interesting, check them out and drop a star!
 
-**Last Updated:** Feb 12, 2026 | GitHub PRO ⭐ | AT-Based 🇦🇹
+**Last Updated:** May 26, 2026 | GitHub PRO ⭐ | AT-Based 🇦🇹
 
